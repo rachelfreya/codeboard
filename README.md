@@ -10,7 +10,7 @@ Code Board is deployed on [www.CodeBoard.tech](www.CodeBoard.tech).
 
 ## Presentation
 
-Insert Grace Hopper presentation here
+https://www.youtube.com/watch?v=gg69CkBtZwo&feature=youtu.be
 
 ## Getting Started for Developers
 

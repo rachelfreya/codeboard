@@ -106,3 +106,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 * **Tom Kelly** - Instructor - [https://github.com/tmkelly28](https://github.com/tmkelly28)
 * **Ashi Mysore** - Instructor - [https://github.com/queerviolet](https://github.com/queerviolet)
 * **Jenny Lee** - Teaching Fellow - [https://github.com/jeunlee](https://github.com/jeunlee)
+* **Aryeh Harris** - Solutions Repo - [https://github.com/harryttd/Cracking-the-Coding-Interview-Javascript-Solutions-CTCI](https://github.com/harryttd/Cracking-the-Coding-Interview-Javascript-Solutions-CTCI)
